@@ -59,10 +59,10 @@ The dataset contains only four predictor variables, which limits the model's abi
 
 The presence of duplicate records may also affect how well the evaluation results represent performance on completely unseen vehicles.
 
-## Technologies Used
+## Tools & Libraries
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- **Python** — programming language
+- **Jupyter Notebook** — development environment
+- **Pandas** — data manipulation and analysis
+- **Matplotlib & Seaborn** — data visualization
+- **Scikit-learn** — preprocessing, model development, and evaluation
