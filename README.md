@@ -20,6 +20,26 @@ The datased was split into 80% training set and 20% testing set.
 Three models i.e., Multilinear Regression, Decision Tree, and Random Forest were trained and evaluated using R², MAE, and RMSE.    
 A prediction error analysis evaluation of the best model was performed. 
 ### Models and Evaluation 
+| Model | R² | MAE | RMSE |  
+|---|---:|---:|---:|
+| Linear Regression | 0.778 | ₹216,466 | ₹381,605 |
+| Decision Tree | 0.783 | ₹184,174 | ₹377,504 |
+| Random Forest | 0.824 | ₹177,752| ₹340,132 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
